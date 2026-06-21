@@ -1,3 +1,24 @@
+# Site personnel — Matar Ndoye
+
+Site personnel réalisé en HTML5, CSS3 et JavaScript, dans le cadre d'un exercice académique.
+
+## Structure du projet
+
+```
+nom_prenom_site/
+├── HTML/
+│   ├── index.html       → Page d'accueil (photo + présentation)
+│   ├── cv.html           → CV complet (formation, expériences, compétences)
+│   ├── projet.html       → Galerie de projets en cartes
+│   └── contact.html      → Formulaire de contact (validation HTML5 native)
+├── CSS/
+│   └── style.css         → Tout le style du site (un seul fichier externe)
+├── JS/
+│   └── script.js         → Lien actif dans le menu + confirmation d'envoi du formulaire
+└── IMAGES/
+    └── ...                → Photo de profil et photos de la galerie
+```
+
 Les 4 pages sont reliées entre elles par un menu de navigation commun, présent dans
 un `<header>` sur chaque page.
 
@@ -29,7 +50,8 @@ un `<header>` sur chaque page.
 ## Déploiement
 
 Le site est déployé en ligne via GitHub Pages :
-👉 https://ton-pseudo.github.io/nom_prenom_site/
+
+👉 https://matarndoye768-bot.github.io/Ndoye_Matar_site/
 
 ## Auteur
 
